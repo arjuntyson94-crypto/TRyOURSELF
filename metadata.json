@@ -1,0 +1,6 @@
+{
+  "name": "TRyOURSELF",
+  "description": "AI-powered STEM problem-solving companion with a 3-tier Attempt-Hint-Reveal pedagogical engine, digital scratchpad, formula chips, and progress insights for Math, Physics & Chemistry.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
